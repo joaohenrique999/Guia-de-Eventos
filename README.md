@@ -96,6 +96,6 @@ O projeto "Guia de Eventos Locais" atende a uma necessidade concreta em cidades 
 
 ## Integrantes do Grupo
 
-- João Henrique de Oliveira – 1395312
-- Mateus Henrique Neves – RM0000002
+- João Henrique de Oliveira – 794277
+- Mateus Henrique Neves – 792411
 
