@@ -56,7 +56,7 @@ Criar um aplicativo que centralize e organize eventos culturais, sociais, esport
 ## Funcionalidades-chave (MVP)
 
 1. Tela inicial com eventos organizados por data.
-2. Filtro de eventos por categoria (shows, cultura, esportes etc.).
+2. Filtro de eventos por categoria (shows, esportes etc.).
 3. Marcar evento como "interessado".
 4. Compartilhamento de eventos via redes sociais.
 5. Cadastro de organizadores com painel próprio.
